@@ -165,6 +165,7 @@
   position: relative;
   height: 890px;
   background-color: #f2f2f2;
+  padding-top: 100px;
 }
 .feynman__title {
   width: 648px;
@@ -196,11 +197,10 @@
 }
 .feynman__main-illustration {
   position: absolute;
-  height: 32px;
   width: 867px;
   height: 637px;
   bottom: 0;
-  left:0 ;
+  left: 0;
 }
 .kaufman {
   background-color: #1f1f1f;
