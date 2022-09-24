@@ -1,0 +1,9 @@
+.cards__item {
+  margin-right: 100px;
+  max-width: 240px;
+  box-sizing: border-box;
+}
+
+.cards__item:nth-of-type(3) {
+  margin-right: 0;
+}
