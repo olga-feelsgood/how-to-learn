@@ -8,10 +8,10 @@
   }
 }
 
-.header__square-pic:hover {
+.header__square-pic {
   animation: rotation 20s linear infinite;
 }
 
-.kaufman__triangle:hover {
+.kaufman__triangle {
   animation: rotation 20s linear infinite;
 }
