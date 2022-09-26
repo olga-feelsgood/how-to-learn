@@ -2,6 +2,7 @@
   margin-right: 100px;
   max-width: 240px;
   box-sizing: border-box;
+  list-style-type: none;
 }
 
 .cards__item:nth-of-type(3) {
